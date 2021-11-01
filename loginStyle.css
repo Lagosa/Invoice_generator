@@ -1,0 +1,65 @@
+body
+{
+  background-color: #E8EAF6;
+  font-family:monospace;
+  font-size: 16px;
+}
+.title
+{
+  text-align: center;
+  color: #424242;
+  font-size:30px;
+  font-weight: bold;
+  font-family:sans-serif;
+  margin-top: 100px;
+}
+.loginFormHolder
+{
+  background-color: white;
+  padding: 30px;
+  width: 20%;
+  margin-top: 100px;
+  margin-left: 38%;
+  margin-right: 30%;
+  box-shadow: 2px 2px 8px #BDBDBD;
+}
+.loginLabel
+{
+  margin-bottom: 20px;
+  margin-top: 8px;
+  font-size: 14px;
+  text-align: center;
+}
+.loginCredentials
+{
+  text-align: center;
+}
+.loginInput
+{
+  margin-top: 10px;
+  padding: 3px;
+  border-bottom: solid 1px #424242;
+  width: 200px;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+.loginInput input
+{
+  border: none;
+  height: 25px;
+}
+.loginButton
+{
+  margin-top: 30px;
+  color: white;
+  font-weight: bold;
+  background-color: #283593;
+  border: none;
+  padding: 8px;
+  width: 100px;
+}
+.icon
+{
+  height: 18px;
+  margin-top: 5px;
+}
